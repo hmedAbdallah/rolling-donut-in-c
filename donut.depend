@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646440222 source:c:\users\fujitsu\desktop\donut\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1646440222 source:c:\users\fujitsu\desktop\programs\donut\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
